@@ -1,0 +1,1 @@
+select 1 id,'gopi' name,'hyd'city
